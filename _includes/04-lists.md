@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Peanut Butter
+2. Chocolate
+3. Apples
+  - red
+  - green
+  
